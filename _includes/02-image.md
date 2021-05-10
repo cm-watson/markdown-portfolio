@@ -1,1 +1,1 @@
-![Rabbits never die](https://imgur.com/a/7hhGnio)
+![Rabbits never die](../rabbits-never-die.png)
