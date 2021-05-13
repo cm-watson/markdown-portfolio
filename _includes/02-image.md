@@ -1,1 +1,1 @@
-![Rabbits never die](/rabbits-never-die.png)
+![Rabbits never die](https://raw.githubusercontent.com/cm-watson/markdown-portfolio/main/rabbits-never-die.png)
